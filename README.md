@@ -3,7 +3,7 @@
 
 **Скринкаст с пояснениями** [https://forum.jscourse.com/t/webpack/1769](https://forum.jscourse.com/t/webpack/1769) и обсуждение
 
-# Возможности
+# Возможности.
 
 - Поддержка [**синтаксиса** es2015](https://babeljs.io/learn-es2015/) с помощью [babel](https://babeljs.io/)
 - Dependency injection как локальных так и `npm` модулей через `require` и es2015 `import`.
